@@ -1,9 +1,9 @@
 
 <img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/b0efbffd-0e72-4c76-b879-f224834ab6fe" />
 
+[coffee_expansion_insights.pdf](https://github.com/user-attachments/files/25521425/coffee_expansion_insights.pdf)
 
-
-##----Insights & Recomendation ----
+## ----Insights & Recomendation ----
 #### City 1: Rajshahi
 	1.Average rent per customer is very low.
 	2.Highest total revenue.
